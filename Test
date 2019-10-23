@@ -2,5 +2,10 @@ Name: vangaprasadreddy
 password: vanga1
 Hello message
 Hello
+<<<<<<< HEAD
 hello2
 hello3
+=======
+Hello2
+Hello3
+>>>>>>> 63ea196a2f35e5d42ec2443f03c13d5c4f0a6bfd
